@@ -32,8 +32,9 @@ A YouTube-inspired video streaming web application built with React.js. It allow
 
 1. Clone the repository
 
-git clone https://github.com/kundangupta04/YouTube-clone.git
-cd YouTube-clone
+a. git clone https://github.com/kundangupta04/YouTube-clone.git
+
+b. cd YouTube-clone
 
 
 2. Install dependencies
